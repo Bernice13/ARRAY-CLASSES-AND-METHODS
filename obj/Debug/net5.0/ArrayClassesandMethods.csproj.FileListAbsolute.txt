@@ -1,0 +1,16 @@
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\bin\Debug\net5.0\ArrayClassesandMethods.exe
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\bin\Debug\net5.0\ArrayClassesandMethods.deps.json
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\bin\Debug\net5.0\ArrayClassesandMethods.runtimeconfig.json
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\bin\Debug\net5.0\ArrayClassesandMethods.runtimeconfig.dev.json
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\bin\Debug\net5.0\ArrayClassesandMethods.dll
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\bin\Debug\net5.0\ref\ArrayClassesandMethods.dll
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\bin\Debug\net5.0\ArrayClassesandMethods.pdb
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\obj\Debug\net5.0\ArrayClassesandMethods.csprojAssemblyReference.cache
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\obj\Debug\net5.0\ArrayClassesandMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\obj\Debug\net5.0\ArrayClassesandMethods.AssemblyInfoInputs.cache
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\obj\Debug\net5.0\ArrayClassesandMethods.AssemblyInfo.cs
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\obj\Debug\net5.0\ArrayClassesandMethods.csproj.CoreCompileInputs.cache
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\obj\Debug\net5.0\ArrayClassesandMethods.dll
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\obj\Debug\net5.0\ref\ArrayClassesandMethods.dll
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\obj\Debug\net5.0\ArrayClassesandMethods.pdb
+C:\Users\Bernice\Desktop\C# classes\ArrayClassesandMethods\obj\Debug\net5.0\ArrayClassesandMethods.genruntimeconfig.cache
